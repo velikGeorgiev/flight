@@ -6,7 +6,9 @@
  * @version 0.0.1
  * @license MIT License
  */
-namespace core;
+ 
+namespace flight\util;
+
 class Filter {
     /**
      * Applys htmlspecialchars and addslshed to the given parameter.
